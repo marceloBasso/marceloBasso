@@ -5,7 +5,8 @@
 <br />
 
 - 🔭 I wish to help more the open source community
-- 📚 I'm currently learning new topics in Python and Ts, but I play around w some other things too
+- 📚 I'm currently learning new topics in Python and Ts
+- 🛰 (but I play around w some other things too)
 - 👨🏻‍🚀 Looking to collaborate with others
 - 🧫 Interested in computational science
 
