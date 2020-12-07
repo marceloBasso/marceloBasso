@@ -10,4 +10,6 @@
 
 ### Latest activity
 
+<div align="center">
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marceloBasso&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+</div>
