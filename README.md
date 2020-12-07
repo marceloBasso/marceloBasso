@@ -1,6 +1,6 @@
 ### Hi there, I'm Marcelo 👋
 
-## I'm a student looking forward to learn and develop new projects 🎯
+## looking forward to learn and develop new projects 🎯
 
 - 🔭 I wish to help more the open source community
 - 📚 I'm currently learning new topics in Python and Ts, but I play around w some other things too
